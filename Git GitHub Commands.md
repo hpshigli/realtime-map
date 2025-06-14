@@ -1,8 +1,6 @@
 
 # 📘 Git & GitHub Command Reference
 
-Below is the full list of commands explained in the [Complete Git and GitHub Tutorial for Beginners](https://youtu.be/Ez8F0nW6S-w).
-
 ---
 
 ## 🔧 Configuration
